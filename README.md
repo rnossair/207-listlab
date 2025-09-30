@@ -1,9 +1,10 @@
 # List Implementation lab
 
-Authors: (_TODO: fill in names here!_)
+Authors: Rayane Nossair, Ayan Arora
 
 ## Resources
 
-*   (_TODO: fill in resources here!_)
-*   ...
-*   ...
+*   Osera CSC 207 TTAP website
+*   Java 21 API docs
+*   Visual Studio Code IDE
+*   Grinnell CS department, prof. Osera and mentor David Rhoades
